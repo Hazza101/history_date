@@ -1,0 +1,173 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: white;
+    
+
+    background: linear-gradient(160deg, transparent 49.9%, lightgrey 49.9%, lightgrey 50.1%, white 50.1%), 
+                linear-gradient(160deg, transparent 50%, white 50.1%), 
+                linear-gradient(to top, darkgreen 40%, lightgreen 100%);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+
+}
+
+header h1 {
+    color: white;
+    font-weight: lighter;
+    padding-left: 2rem;
+}
+
+.search-field {
+    
+    width: 50%;
+    margin: auto;
+
+    
+    align-items: center;
+}
+
+.search-field form {
+    display: flex;
+    margin-top: 20%;
+    justify-content: space-between;
+    background: white;
+    border:1px solid black;
+    border-radius: 5px;
+
+    padding: 0.5rem;
+}
+
+.search-field input {
+    width: 90%;
+    outline: none;
+    border: none;
+
+}
+
+.search-field button {
+    width: 10%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding: 0;
+    outline: none;
+    border: none;
+    background: white;
+    cursor: pointer;
+}
+
+.search-results {
+    display: flex;
+    margin-top: 20%;
+    width: 50%;
+    margin: auto;
+    justify-content: space-between;
+    background: white;
+    border:1px solid black;
+    border-radius: 5px;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    max-height: 50vh;
+    overflow-y: auto;
+
+    
+}
+
+.search-results::-webkit-scrollbar-track {
+    background: white; /* Track background */
+    border-radius: 10px;
+}
+
+/* This styles the scrollbar thumb */
+.search-results::-webkit-scrollbar-thumb {
+    background: black; /* Thumb background */
+    border-radius: 15px;
+    
+    background-clip: padding-box;
+    border: 3px solid transparent;
+}
+
+/* This styles the scrollbar thumb on hover */
+.search-results::-webkit-scrollbar-thumb:hover {
+    background: black; /* Thumb background */
+    border-radius: 15px;
+    
+    background-clip: padding-box;
+    border: 3px solid transparent;
+}
+
+/* This sets the size of the scrollbar */
+.search-results::-webkit-scrollbar {
+    width: 10px; 
+    background: white;
+    border-radius: 10px;
+    
+    
+}
+
+.search-results > div:not(:last-child) {
+    position: relative;
+    
+}
+
+
+
+.search-results > div:not(:last-child)::after {
+    content: '';
+    position: absolute;
+    left: 1rem;
+    right: 1rem;
+    bottom: 0;
+    border-bottom: 1px solid grey;
+}
+
+.result, #no-result {
+    padding: 1px 1rem;
+    cursor: pointer;
+    margin: 0 0.5rem;
+
+    
+}
+
+.hidden {
+    display: none;
+}
+
+.result h3, #no-result h3 {
+    font-size: normal;
+    font-weight: lighter;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    
+    
+}
+
+#no-result {
+    display: none;
+}
+
+.result:hover {
+    background: whitesmoke;
+    border-radius: 5px;
+    
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    gap: 4rem;
+}
+
+
+
+
+
+
+
+
+
+

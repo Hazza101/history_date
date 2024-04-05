@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>whatsmyhistorydate</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to whatsmyhistorydate</h1>
+    </header>
+    
+    <main>
+        
+        <div class="search-field">
+            
+            <form action="/search" method="get">
+                <input type="text" id="searchBox" name="query" placeholder="Find your history topic">
+                <button type="submit"><img src="imgs/search-icon.png" alt="search button" width="30px" height="30px"/></button>
+
+            </form>
+        </div>
+
+        <div class="search-results">
+
+            <div class="result">
+                <h3>Anglo-Saxon and Norman England, c1060–88</h3>
+            </div>
+
+            <div class="result">
+                <h3>The reigns of King Richard I and King John, 1189–1216</h3>
+            </div>
+
+            <div class="result">
+                <h3>Henry VIII and his ministers, 1509–40</h3>
+            </div>
+
+            <div class="result">
+                <h3>Early Elizabethan England, 1558–88</h3>
+            </div>
+
+            <div class="result">
+                <h3>Conflict in the Middle East, 1945–95</h3>
+            </div>
+
+            <div class="result">
+                <h3> Crime and Punishment in Britain, c1000-present
+                </h3>
+            </div>
+            
+            <div class="result">
+                <h3>Warfare and British society, c1250-present</h3>
+            </div>
+
+            <div id="no-result">
+                <h3>No results for</h3>
+            </div>
+
+        </div>
+
+    </main>
+    
+    <script src="script.js"></script>
+</body>
+</html>
