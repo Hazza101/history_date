@@ -494,7 +494,7 @@
 @Component Group 1
 ~Non-British Depth Study
 ^China 1950-1981: The People and the State
-+Establishing Communism in China 1950-1965
+%Establishing Communism in China 1950-1965
 *Chinese Civil War Ends,*,-1950-10-01
 < The Chinese Civil War, which lasted for several years between the Chinese Communist Party (CCP) and the Nationalist Party (Kuomintang), officially ended on October 1, 1950, with the victory of the CCP. This event marked the beginning of Communist rule in mainland China and the establishment of the People's Republic of China (PRC).
 *Land Reform Law,*,-1950
@@ -521,7 +521,7 @@
 @Component Group 1
 ~Non-British Depth Study
 ^China 1950-1981: The People and the State
-+China during the Cultural Revolution 1966-1976
+%China during the Cultural Revolution 1966-1976
 *Launch of the Cultural Revolution,*,-1966-05-16
 < The Cultural Revolution was officially launched by Mao Zedong with the issuance of a central directive known as the May 16th Notification. This marked the beginning of a tumultuous socio-political movement aimed at preserving communist ideology and purging perceived bourgeois elements from Chinese society.
 *Formation of the Red Guards,*,-1966
@@ -547,7 +547,7 @@
 @Component Group 1
 ~Non-British Depth Study
 ^China 1950-1981: The People and the State
-+Communism in China after the Death of Mao 1976-1981
+%Communism in China after the Death of Mao 1976-1981
 *Death of Mao Zedong,*,-1976-09-09
 < The death of Mao Zedong, the founding father of the People's Republic of China and the leader of the Chinese Communist Party, marked the end of an era. Mao's passing created a power vacuum and triggered a period of uncertainty and transition in Chinese politics.
 *Arrest of the Gang of Four,*,-1976-10-06
@@ -574,7 +574,7 @@
 @Component Group 1
 ~Non-British Depth Study
 ^Germany 1925-1955: The People and the State
-+The rise and consolidation of the Nazi Regime 1925-1934
+%The rise and consolidation of the Nazi Regime 1925-1934
 *Adolf Hitler becomes leader of the Nazi Party,*,-1925-07-29
 < Adolf Hitler assumed leadership of the National Socialist German Workers' Party (NSDAP), commonly known as the Nazi Party, on July 29, 1925. His appointment marked the beginning of his political career and set the stage for the rapid rise of Nazism in Germany.
 *Publication of Mein Kampf,*,-1925-07-18
@@ -600,7 +600,7 @@
 @Component Group 1
 ~Non-British Depth Study
 ^Germany 1925-1955: The People and the State
-+Nazi Germany and its people 1933-1939
+%Nazi Germany and its people 1933-1939
 *Adolf Hitler becomes Chancellor,*,-1933-01-30
 < Adolf Hitler was appointed as Chancellor of Germany by President Paul von Hindenburg on January 30, 1933. Hitler's appointment marked the beginning of the Nazi regime's ascent to power and the start of a series of events that would lead to the establishment of a totalitarian dictatorship.
 *Reichstag Fire,*,-1933-02-27
@@ -626,7 +626,7 @@
 @Component Group 1
 ~Non-British Depth Study
 ^Germany 1925-1955: The People and the State
-+War and its Legacy 1939-1955
+%War and its Legacy 1939-1955
 *Invasion of Poland,*,-1939-09-01
 < The invasion of Poland by Nazi Germany on September 1, 1939, marked the beginning of World War II. The invasion, carried out with Soviet support, led to the rapid defeat of Poland and the subsequent occupation of the country by German forces.
 *Battle of Stalingrad,*,-1942-08-23 to 1943-02-02
@@ -652,7 +652,7 @@
 @Component Group 1
 ~Non-British Depth Study
 ^South Africa 1960-1994: The People and the State
-+Opposition to the Apartheid Regime c. 1960s
+%Opposition to the Apartheid Regime c. 1960s
 *Sharpeville Massacre,*,-1960-03-21
 < The Sharpeville Massacre occurred on March 21, 1960, when South African police opened fire on a peaceful demonstration in the township of Sharpeville, killing 69 people and injuring hundreds more. The massacre sparked international condemnation and marked a turning point in the struggle against apartheid.
 *Formation of Umkhonto we Sizwe,*,-1961-12-16
@@ -678,7 +678,7 @@
 @Component Group 1
 ~Non-British Depth Study
 ^South Africa 1960-1994: The People and the State
-+Growing Resistance and Repression c.1970s
+%Growing Resistance and Repression c.1970s
 *Soweto Uprising,*,-1976-06-16
 < The Soweto Uprising, which began on June 16, 1976, was a series of protests by black students in response to the introduction of Afrikaans as the medium of instruction in schools. The uprising quickly spread throughout South Africa and resulted in violent clashes with security forces, leaving hundreds dead and thousands injured.
 *Black Consciousness Movement,*,-1970s
@@ -704,7 +704,7 @@
 @Component Group 1
 ~Non-British Depth Study
 ^South Africa 1960-1994: The People and the State
-+The collapse of apartheid c.1980s-1994
+%The collapse of apartheid c.1980s-1994
 *1980s Anti-apartheid Protests,*,-1980s
 < The 1980s witnessed a surge in anti-apartheid protests across South Africa, as well as internationally. Activists, including trade unions, students, and religious groups, organized demonstrations, strikes, and boycotts to demand an end to apartheid and the release of political prisoners. The protests played a crucial role in mobilizing opposition to the apartheid regime.
 *1984-1985 Miners' Strike,*,-1984-1985
@@ -730,7 +730,7 @@
 @Component Group 1
 ~Non-British Depth Study
 ^The USA 1919-1948: The People and the State
-+The ‘Roaring Twenties’
+%The ‘Roaring Twenties’
 *1920 Women's Suffrage,*,-1920-08-18
 < The 19th Amendment to the United States Constitution was ratified on August 18, 1920, granting women the right to vote. The amendment marked a significant victory for the women's suffrage movement and expanded democratic participation in the United States.
 *1920s Economic Boom,*,-1920s
@@ -752,7 +752,7 @@
 @Component Group 1
 ~Non-British Depth Study
 ^The USA 1919-1948: The People and the State
-+The 1930s and the New Deal
+%The 1930s and the New Deal
 *1933 Prohibition Repeal,*,-1933-12-05
 < The 18th Amendment, which had prohibited the manufacture, sale, and transportation of alcoholic beverages since 1919, was repealed with the ratification of the 21st Amendment on December 5, 1933. The repeal of Prohibition marked the end of a contentious era in American history and reflected changing social attitudes towards alcohol and government regulation.
 *1933 New Deal Programs,*,-1933-03-04
@@ -773,3 +773,110 @@
 < The Neutrality Act of 1939, passed on November 4, 1939, was aimed at maintaining American neutrality in foreign conflicts, particularly the escalating tensions in Europe leading up to World War II. The act included provisions such as a cash-and-carry policy and an arms embargo to limit U.S. involvement in international conflicts.
 *1939 World's Fair in New York,*,-1939-04-30 to 1939-10-31
 < The 1939 New York World's Fair, held from April 30 to October 31, 1939, showcased the achievements of industry, science, and culture during the Great Depression era. The fair, themed "The World of Tomorrow," featured innovative exhibits, technological advancements, and futuristic visions, offering hope and inspiration to visitors during a time of economic hardship.
+
+
++OCR History A (Explaining the Modern World)
+@Component Group 1
+~Non-British Depth Study
+^The USA 1919-1948: The People and the State
+%The Impact of the Second World War on US Society
+*1941 Attack on Pearl Harbor,*,-1941-12-07
+< The Japanese attack on Pearl Harbor, Hawaii, on December 7, 1941, prompted the United States to enter World War II. The surprise attack resulted in significant casualties and damage to the U.S. Pacific Fleet and led to the declaration of war against Japan the following day, marking the beginning of America's involvement in the global conflict.
+*1942 Executive Order 9066,*,-1942-02-19
+< President Franklin D. Roosevelt signed Executive Order 9066 on February 19, 1942, authorizing the forced relocation and internment of Japanese Americans living on the West Coast of the United States. The order, motivated by fears of espionage and sabotage following the Pearl Harbor attack, led to the displacement and confinement of over 120,000 Japanese Americans, many of whom were American citizens.
+*1943 Zoot Suit Riots,*,-1943
+< The Zoot Suit Riots were a series of racially charged conflicts that occurred in Los Angeles, California, in 1943. The riots pitted American servicemen, predominantly white, against Mexican American youths who wore zoot suits, a style associated with urban African American and Latino communities. The riots reflected tensions over race, ethnicity, and cultural identity during World War II.
+*1944 G.I. Bill of Rights,*,-1944-06-22
+< The Servicemen's Readjustment Act of 1944, commonly known as the G.I. Bill of Rights, was signed into law on June 22, 1944. The bill provided a range of benefits to World War II veterans, including access to education, vocational training, home loans, unemployment compensation, and healthcare, facilitating their reintegration into civilian life and contributing to post-war economic prosperity and social mobility.
+*1945 End of World War II,*,-1945-09-02
+< World War II officially ended with the unconditional surrender of Japan on September 2, 1945, following the atomic bombings of Hiroshima and Nagasaki and the Soviet invasion of Manchuria. The conclusion of the war brought about a profound sense of relief and jubilation among Americans, marking the beginning of a new era of peace and reconstruction.
+*1945 Manhattan Project,*,-1945
+< The Manhattan Project was a top-secret research and development program undertaken by the United States during World War II to develop the first atomic bombs. Led by scientists such as J. Robert Oppenheimer and Enrico Fermi, the project culminated in the successful testing of the atomic bomb.
+*1948 Integration of the Armed Forces,*,-1948-07-26
+< President Harry S. Truman issued Executive Order 9981 on July 26, 1948, ordering the integration of the U.S. Armed Forces and the elimination of segregation and discrimination based on race, color, religion, or national origin. The order represented a significant milestone in the civil rights movement and paved the way for desegregation in other areas of American society.
+*1948 Women's Armed Services Integration Act,*,-1948-06-12
+< The Women's Armed Services Integration Act, enacted on June 12, 1948, allowed women to serve as full members of the United States Armed Forces for the first time in American history. The act recognized the valuable contributions of women to the military effort during World War II and expanded opportunities for women in the armed services.
+*1949 NATO Formation,*,-1949-04-04
+< The North Atlantic Treaty Organization (NATO) was established on April 4, 1949, as a collective defense alliance between North American and European countries. NATO's formation was prompted by concerns over Soviet expansionism and aggression in the aftermath of World War II and represented a commitment to mutual defense and security among member states.
+*1954 Brown v. Board of Education,*,-1954-05-17
+< The landmark Supreme Court case Brown v. Board of Education of Topeka, decided on May 17, 1954, declared racial segregation in public schools unconstitutional, overturning the "separate but equal" doctrine established by the Plessy v. Ferguson decision in 1896. The ruling marked a significant victory for the civil rights movement and paved the way for desegregation in public education and other areas of American life.
+
+
++OCR History A (Explaining the Modern World)
+@Component Group 1
+~Non-British Depth Study
+^The USA 1945-1974: The People and the State
+%Post-War Challenges in the USA 1945-1954
+*1945 End of World War II,*,-1945-09-02
+< World War II officially ended with the unconditional surrender of Japan on September 2, 1945, following the atomic bombings of Hiroshima and Nagasaki and the Soviet invasion of Manchuria. The conclusion of the war brought about a profound sense of relief and jubilation among Americans, marking the beginning of a new era of peace and reconstruction.
+*1945 United Nations Charter,*,-1945-06-26
+< The United Nations Charter, the foundational document of the United Nations, was signed on June 26, 1945, by representatives of 50 countries in San Francisco, California. The charter established the principles and structure of the UN, aimed at promoting international cooperation, maintaining peace and security, and protecting human rights.
+*1946 Employment Act,*,-1946-02-20
+< The Employment Act of 1946, signed into law by President Harry S. Truman on February 20, 1946, committed the federal government to pursue policies aimed at achieving maximum employment, production, and purchasing power. The act marked a significant expansion of the federal government's role in managing the economy and addressing post-war economic challenges.
+*1947 Taft-Hartley Act,*,-1947-06-23
+< The Taft-Hartley Act, officially known as the Labor Management Relations Act of 1947, was enacted on June 23, 1947, to restrict the power and activities of labor unions in the United States. The act imposed regulations on union practices, prohibited certain labor actions, and allowed states to pass right-to-work laws, significantly impacting the labor movement.
+*1948 Marshall Plan,*,-1948-04-03
+< The Marshall Plan, officially known as the European Recovery Program, was an American initiative to provide economic aid to Western Europe in the aftermath of World War II. The plan aimed to rebuild war-torn economies, foster economic stability, and prevent the spread of communism, contributing to the post-war recovery and prosperity of Europe.
+*1948 Integration of the Armed Forces,*,-1948-07-26
+< President Harry S. Truman issued Executive Order 9981 on July 26, 1948, ordering the integration of the U.S. Armed Forces and the elimination of segregation and discrimination based on race, color, religion, or national origin. The order represented a significant milestone in the civil rights movement and paved the way for desegregation in other areas of American society.
+*1948 Truman's Fair Deal,*,-1949
+< President Harry S. Truman's Fair Deal was a comprehensive set of proposals aimed at addressing various social and economic challenges facing the United States in the post-war period. The Fair Deal included initiatives to expand social welfare programs, promote civil rights, and stimulate economic growth, although many of its proposals faced opposition in Congress.
+*1949 NATO Formation,*,-1949-04-04
+< The North Atlantic Treaty Organization (NATO) was established on April 4, 1949, as a collective defense alliance between North American and European countries. NATO's formation was prompted by concerns over Soviet expansionism and aggression in the aftermath of World War II and represented a commitment to mutual defense and security among member states.
+*1950 Korean War Begins,*,-1950-06-25
+< The Korean War began on June 25, 1950, when North Korean forces invaded South Korea, leading to a conflict between communist and non-communist forces on the Korean Peninsula. The war, which lasted until 1953, involved significant U.S. military intervention and had far-reaching geopolitical implications for the Cold War.
+*1954 Brown v. Board of Education,*,-1954-05-17
+< The landmark Supreme Court case Brown v. Board of Education of Topeka, decided on May 17, 1954, declared racial segregation in public schools unconstitutional, overturning the "separate but equal" doctrine established by the Plessy v. Ferguson decision in 1896. The ruling marked a significant victory for the civil rights movement and paved the way for desegregation in public education and other areas of American life.
+
+
++OCR History A (Explaining the Modern World)
+@Component Group 1
+~Non-British Depth Study
+^The USA 1945-1974: The People and the State
+%Civil Rights in the USA 1954-1964
+*1954 Brown v. Board of Education,*,-1954-05-17
+< The landmark Supreme Court case Brown v. Board of Education of Topeka, decided on May 17, 1954, declared racial segregation in public schools unconstitutional, overturning the "separate but equal" doctrine established by the Plessy v. Ferguson decision in 1896. The ruling marked a significant victory for the civil rights movement and paved the way for desegregation in public education and other areas of American life.
+*1955 Montgomery Bus Boycott,*,-1955-12-01 to 1956-12-20
+< The Montgomery Bus Boycott was a seminal event in the civil rights movement that began on December 1, 1955, when Rosa Parks, an African American woman, refused to give up her seat to a white passenger on a segregated bus in Montgomery, Alabama. The boycott, led by Dr. Martin Luther King Jr. and the Montgomery Improvement Association, lasted for 381 days and ultimately resulted in the desegregation of the city's public transportation system.
+*1957 Little Rock Nine,*,-1957-09-04
+< The Little Rock Nine were a group of African American students who were enrolled in Little Rock Central High School in Arkansas in 1957 following the Supreme Court's ruling in Brown v. Board of Education. Their enrollment was met with violent opposition from white segregationists and required the intervention of federal troops ordered by President Dwight D. Eisenhower to ensure their safety and enforce desegregation.
+*1957 Civil Rights Act,*,-1957-09-09
+< The Civil Rights Act of 1957 was the first federal civil rights legislation passed since Reconstruction. Signed into law by President Dwight D. Eisenhower on September 9, 1957, the act aimed to protect the voting rights of African Americans by establishing a federal Civil Rights Commission to investigate voting discrimination and enforce voting rights laws.
+*1960 Greensboro Sit-Ins,*,-1960-02-01
+< The Greensboro Sit-Ins began on February 1, 1960, when four African American college students from North Carolina Agricultural and Technical State University sat at a segregated lunch counter at Woolworth's in Greensboro, North Carolina, and demanded service. Their peaceful protest sparked a wave of sit-ins and demonstrations across the South, leading to the desegregation of many public accommodations.
+*1961 Freedom Rides,*,-1961-05-04
+< The Freedom Rides were a series of bus trips undertaken by civil rights activists in 1961 to challenge segregation on interstate buses and bus terminals in the South. Organized by the Congress of Racial Equality (CORE), the rides were met with violent opposition from white supremacists, leading to clashes and arrests. The Freedom Rides drew national attention to the continued resistance to desegregation and the need for federal intervention to enforce civil rights laws.
+*1963 Birmingham Campaign,*,-1963-04-03 to 1963-05-10
+< The Birmingham Campaign was a coordinated series of nonviolent protests and civil disobedience actions led by Dr. Martin Luther King Jr. and the Southern Christian Leadership Conference (SCLC) in Birmingham, Alabama, in 1963. The campaign aimed to challenge segregation and racial injustice in one of the most racially divided cities in the South and drew widespread attention to the brutality of segregationist tactics, including the use of police dogs and fire hoses against peaceful demonstrators.
+*1963 March on Washington for Jobs and Freedom,*,-1963-08-28
+< The March on Washington for Jobs and Freedom took place on August 28, 1963, in Washington, D.C., and was attended by an estimated 250,000 people, making it one of the largest demonstrations for civil rights in American history. The highlight of the march was Dr. Martin Luther King Jr.'s iconic "I Have a Dream" speech, which called for an end to racism and envisioned a future of equality and justice for all Americans.
+*1964 Civil Rights Act,*,-1964-07-02
+< The Civil Rights Act of 1964 was landmark legislation signed into law by President Lyndon B. Johnson on July 2, 1964. The act outlawed discrimination based on race, color, religion, sex, or national origin and prohibited segregation in public accommodations, employment, and federally funded programs. It represented a major victory for the civil rights movement and marked a significant step toward achieving racial equality in the United States.
+*1964 Freedom Summer,*,-1964
+< Freedom Summer was a voter registration drive and educational initiative organized by civil rights organizations, including the Student Nonviolent Coordinating Committee (SNCC) and the Congress of Racial Equality (CORE), in Mississippi during
+
++OCR History A (Explaining the Modern World)
+@Component Group 1
+~Non-British Depth Study
+^The USA 1945-1974: The People and the State
+%Government and Dissent c.1964-1974
+*1964 Gulf of Tonkin Resolution,*,-1964-08-07
+< The Gulf of Tonkin Resolution, passed by the U.S. Congress on August 7, 1964, granted President Lyndon B. Johnson broad authority to conduct military operations in Vietnam without a formal declaration of war. The resolution followed reported attacks on U.S. naval vessels by North Vietnamese forces in the Gulf of Tonkin and marked a significant escalation of American involvement in the Vietnam War.
+*1965 Voting Rights Act,*,-1965-08-06
+< The Voting Rights Act of 1965, signed into law by President Lyndon B. Johnson on August 6, 1965, aimed to overcome state and local barriers to voting for African Americans, particularly in the South. The act prohibited racial discrimination in voting practices, such as literacy tests and poll taxes, and authorized federal oversight of elections in jurisdictions with a history of voter suppression.
+*1967 Six-Day War,*,-1967-06-05 to 1967-06-10
+< The Six-Day War was a brief but intense conflict between Israel and several Arab states, including Egypt, Jordan, and Syria, that took place from June 5 to June 10, 1967. The war resulted in a decisive Israeli victory and led to significant territorial gains for Israel, including the capture of the Sinai Peninsula, the Gaza Strip, the West Bank, and the Golan Heights, with far-reaching implications for the Middle East.
+*1968 Tet Offensive,*,-1968-01-30
+< The Tet Offensive was a coordinated series of surprise attacks launched by the Viet Cong and North Vietnamese forces against South Vietnam and U.S. military installations during the lunar new year holiday of Tet in January 1968. While the offensive was militarily unsuccessful for the communist forces, it shocked the American public and undermined confidence in the U.S. government's portrayal of the Vietnam War as winnable, contributing to growing opposition to the war effort.
+*1968 Assassination of Martin Luther King Jr.,*,-1968-04-04
+< Civil rights leader Dr. Martin Luther King Jr. was assassinated on April 4, 1968, in Memphis, Tennessee, by James Earl Ray, an escaped convict and white supremacist. King's assassination shocked the nation and sparked widespread outrage and unrest in cities across the United States, underscoring the deep divisions and racial tensions that persisted despite advances in the civil rights movement.
+*1968 Democratic National Convention,*,-1968-08-26 to 1968-08-29
+< The 1968 Democratic National Convention in Chicago, Illinois, was marred by violent clashes between anti-war demonstrators and law enforcement personnel, as well as internal divisions within the Democratic Party over the Vietnam War and civil rights issues. The chaotic scenes broadcast on national television further eroded public confidence in the government and contributed to a sense of political turmoil and disillusionment.
+*1969 Apollo 11 Moon Landing,*,-1969-07-20
+< Apollo 11, the first manned mission to land on the moon, culminated in the historic landing of astronauts Neil Armstrong and Edwin "Buzz" Aldrin on the lunar surface on July 20, 1969. Armstrong's famous words, "That's one small step for man, one giant leap for mankind," captured the imagination of people around the world and symbolized American technological prowess and achievement during a tumultuous period in U.S. history.
+*1971 Pentagon Papers,*,-1971-06-13
+< The Pentagon Papers were a classified study of U.S. political and military involvement in Vietnam, commissioned by the Department of Defense, that was leaked to the press by military analyst Daniel Ellsberg in 1971. The publication of the papers by The New York Times and other newspapers revealed the extent of U.S. government deception and misinformation regarding the Vietnam War, fueling public skepticism and opposition to the conflict.
+*1972 Watergate Scandal,*,-1972-06-17
+< The Watergate scandal was a political scandal that erupted in 1972 when five men were arrested for breaking into the Democratic National Committee headquarters at the Watergate complex in Washington, D.C. The subsequent investigation uncovered a web of illegal activities, including espionage and obstruction of justice, orchestrated by officials in the Nixon administration. The scandal ultimately led to President Richard Nixon's resignation in 1974.
+*1973 Roe v. Wade,*,-1973-01-22
+< The landmark Supreme Court case Roe v. Wade, decided on January 22, 1973, established a woman's constitutional right to access safe and legal abortion. The ruling struck down state laws that criminalized or restricted access to abortion, recognizing that the decision to terminate a pregnancy is a private matter protected by the right to privacy

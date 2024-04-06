@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>whatsmyhistorydate</title>
+    <link rel="stylesheet" href="period_style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to whatsmyhistorydate</h1>
+	<a href="../index.html"><img src="Media/home_button2.png" width="30px" height="30px"/></a>
+    </header>
+    
+    <main>
+    <div class="main-info">
+        <div class="title-info">

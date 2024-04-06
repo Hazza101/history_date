@@ -136,6 +136,11 @@ header h1 {
     display: none;
 }
 
+.result a {
+    text-decoration: none;
+    color:black;
+}
+
 .result h3, #no-result h3 {
     font-size: normal;
     font-weight: lighter;

@@ -1,0 +1,128 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: white;
+    
+
+    background: linear-gradient(160deg, transparent 49.9%, lightgrey 49.9%, lightgrey 50.1%, white 50.1%), 
+                linear-gradient(160deg, transparent 50%, white 50.1%), 
+                linear-gradient(to top, darkgreen 40%, lightgreen 100%);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    
+
+}
+
+header {
+    display: flex;
+    padding: 0 2rem;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header h1 {
+    color: white;
+    font-weight: lighter;
+    
+    text-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+    
+}
+
+.main-info {
+    border: 1px solid black;
+    width: 70%;
+    margin: auto;
+    color: black;
+    background-color: whitesmoke;
+    border-radius: 15px;
+    padding: 0 0.5rem;
+    margin-top: 10%;
+    height: 70vh;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+    max-height: 70vh;
+    overflow-y: auto;
+}
+
+.main-info::-webkit-scrollbar-track {
+    background: whitesmoke; /* Track background */
+    border-radius: 10px;
+}
+
+/* This styles the scrollbar thumb */
+.main-info::-webkit-scrollbar-thumb {
+    background: black; /* Thumb background */
+    border-radius: 15px;
+    
+    background-clip: padding-box;
+    border: 3px solid transparent;
+}
+
+/* This styles the scrollbar thumb on hover */
+.main-info::-webkit-scrollbar-thumb:hover {
+    background: black; /* Thumb background */
+    border-radius: 15px;
+    
+    background-clip: padding-box;
+    border: 3px solid transparent;
+}
+
+/* This sets the size of the scrollbar */
+.main-info::-webkit-scrollbar {
+    width: 10px; 
+    background: white;
+    border-radius: 10px;
+    
+    
+}
+
+.title-info {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+}
+
+.title-info h3 {
+    color: #3b3b3b;
+    font-weight: lighter;
+    font-size: medium;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+
+.accordion-item {
+    width: 90%;
+
+}
+.accordion-content {
+    display: none;
+    padding:15px;
+    
+    border-top: none;
+}
+
+
+.accordion {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.accordion-button {
+    background-color: #f1f1f1;
+    cursor: pointer;
+    padding: 10px;
+    width: 100%;
+    border: 1px solid #ccc;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+    transition: background-color 0.4s ease;
+
+}
+
+
+.accordion-button:hover {
+    background-color: #ccc;
+} 
+
